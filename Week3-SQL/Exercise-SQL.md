@@ -256,7 +256,8 @@ For this section of the exercise we will be using the `bigquery-public-data.aust
   		t_end
 	ON
   		t_start.start_station_name = t_end.end_station_name
-  ```
+  	```
+
 # The next section is the Google Colab section.  
 1. Open up this [this Colab notebook](https://colab.research.google.com/drive/1kHdTtuHTPEaMH32GotVum41YVdeyzQ74?usp=sharing).
 2. Save a copy of it in your drive. 
